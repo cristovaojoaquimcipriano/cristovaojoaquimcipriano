@@ -2,7 +2,7 @@
 
 Hi, I'm Cristovão Cipriano, a passionate self-taught Full Stack web developer and a freelance software engineer.
 
-  <img align="right" alt="GIF" src="./code.svg" width="500" height="320" />
+  <img align="right" alt="GIF" src="./code.svg" width="30%" height="50%" />
 
 **Languages and Tools:**
 
