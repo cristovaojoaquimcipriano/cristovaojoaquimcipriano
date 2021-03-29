@@ -27,7 +27,6 @@ HTML       32 mins        ▓░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cristovaojoaquimcipriano&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
