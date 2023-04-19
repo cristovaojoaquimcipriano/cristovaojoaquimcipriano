@@ -17,16 +17,6 @@ Hi, I'm Cristovão Cipriano, a passionate self-taught Full Stack web developer a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript 9 hrs 34 mins  █████████▒░░░░░░░░░ 49.80% 
-JSX        7 hrs 6 mins   █████████▒░░░░░░░░░ 36.98% 
-Other      1 hr 2 mins    █▒░░░░░░░░░░░░░░░░░ 05.38% 
-HTML       32 mins        ▓░░░░░░░░░░░░░░░░░░ 02.80% 
-```
-<!--END_SECTION:waka-->
-
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cristovaojoaquimcipriano&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
